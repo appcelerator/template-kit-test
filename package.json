@@ -3,6 +3,7 @@
 	"version": "1.0.3",
 	"files": [
 		".gitignore",
+		".npmignore",
 		"package.json",
 		"README.md"
 	]
